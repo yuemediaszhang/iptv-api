@@ -19,7 +19,7 @@ Category: 卫视频道, Name: 湖北卫视, Total: 485, Valid: 5, Valid Percent:
 Category: 卫视频道, Name: 黑龙江卫视, Total: 464, Valid: 3, Valid Percent: 0.65%, Whitelist: 0, IPv4: 461, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 安徽卫视, Total: 466, Valid: 2, Valid Percent: 0.43%, Whitelist: 0, IPv4: 464, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 重庆卫视, Total: 472, Valid: 2, Valid Percent: 0.42%, Whitelist: 0, IPv4: 470, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 东方卫视, Total: 445, Valid: 5, Valid Percent: 1.12%, Whitelist: 0, IPv4: 440, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 卫视频道, Name: 东方卫视, Total: 446, Valid: 5, Valid Percent: 1.12%, Whitelist: 0, IPv4: 441, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 东南卫视, Total: 445, Valid: 4, Valid Percent: 0.90%, Whitelist: 0, IPv4: 441, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 甘肃卫视, Total: 301, Valid: 4, Valid Percent: 1.33%, Whitelist: 0, IPv4: 297, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 广西卫视, Total: 409, Valid: 6, Valid Percent: 1.47%, Whitelist: 0, IPv4: 403, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -407,7 +407,7 @@ Category: 陕西频道, Name: 陕西影视, Total: 10, Valid: 0, Valid Percent: 
 Category: 陕西频道, Name: 汉中综合, Total: 10, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 10, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 福建频道, Name: 三明公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 福建频道, Name: 三明新闻综合, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 福建频道, Name: 厦门卫视, Total: 119, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 119, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 福建频道, Name: 厦门卫视, Total: 120, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 120, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 福建频道, Name: 宁化电视一套, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 福建频道, Name: 建宁综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 福建频道, Name: 晋江电视台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -628,7 +628,7 @@ Category: 安徽频道, Name: 芜湖公共, Total: 14, Valid: 0, Valid Percent: 
 Category: 安徽频道, Name: 肥东经济生活, Total: 14, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 14, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 安徽频道, Name: 繁昌新闻综合, Total: 14, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 14, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 安徽频道, Name: 祁门综合, Total: 18, Valid: 1, Valid Percent: 5.56%, Whitelist: 0, IPv4: 17, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 安徽频道, Name: 灵璧综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 安徽频道, Name: 灵璧综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 安徽频道, Name: 滁州科教, Total: 16, Valid: 2, Valid Percent: 12.50%, Whitelist: 0, IPv4: 14, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 安徽频道, Name: 滁州新闻综合, Total: 16, Valid: 2, Valid Percent: 12.50%, Whitelist: 0, IPv4: 14, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 安徽频道, Name: 滁州公共, Total: 16, Valid: 2, Valid Percent: 12.50%, Whitelist: 0, IPv4: 14, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -715,7 +715,7 @@ Category: 云南频道, Name: 腾冲综合, Total: 1, Valid: 0, Valid Percent: 0
 Category: 云南频道, Name: 芒市综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 云南频道, Name: 蒙自综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 云南频道, Name: 西双版纳综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 云南频道, Name: 通海电视台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 云南频道, Name: 通海电视台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 云南频道, Name: 金平综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 云南频道, Name: 陇川综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 云南频道, Name: 麻栗坡电视台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
