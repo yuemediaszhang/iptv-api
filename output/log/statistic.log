@@ -12,7 +12,7 @@ Category: 央视付费频道, Name: 世界地理, Total: 5, Valid: 0, Valid Perc
 Category: 央视付费频道, Name: 兵器科技, Total: 13, Valid: 1, Valid Percent: 7.69%, Whitelist: 0, IPv4: 12, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 广东卫视, Total: 116, Valid: 6, Valid Percent: 5.17%, Whitelist: 0, IPv4: 110, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 香港卫视, Total: 22, Valid: 11, Valid Percent: 50.00%, Whitelist: 0, IPv4: 11, IPv6: 11, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 浙江卫视, Total: 121, Valid: 7, Valid Percent: 5.79%, Whitelist: 0, IPv4: 114, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 卫视频道, Name: 浙江卫视, Total: 121, Valid: 6, Valid Percent: 4.96%, Whitelist: 0, IPv4: 115, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 湖南卫视, Total: 104, Valid: 4, Valid Percent: 3.85%, Whitelist: 0, IPv4: 100, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 北京卫视, Total: 108, Valid: 4, Valid Percent: 3.70%, Whitelist: 0, IPv4: 104, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 卫视频道, Name: 湖北卫视, Total: 102, Valid: 5, Valid Percent: 4.90%, Whitelist: 0, IPv4: 97, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -55,14 +55,14 @@ Category: 广东频道, Name: 广州影视, Total: 12, Valid: 7, Valid Percent: 
 Category: 广东频道, Name: 广州竞赛, Total: 19, Valid: 12, Valid Percent: 63.16%, Whitelist: 0, IPv4: 7, IPv6: 12, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 广东频道, Name: 深圳卫视, Total: 102, Valid: 3, Valid Percent: 2.94%, Whitelist: 0, IPv4: 99, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 浙江钱江, Total: 9, Valid: 3, Valid Percent: 33.33%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 浙江频道, Name: 浙江钱江都市, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 浙江频道, Name: 浙江钱江都市, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 浙江钱江台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 浙江频道, Name: 浙江生活, Total: 9, Valid: 5, Valid Percent: 55.56%, Whitelist: 0, IPv4: 4, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江生活, Total: 9, Valid: 4, Valid Percent: 44.44%, Whitelist: 0, IPv4: 5, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 浙江经济生活, Total: 8, Valid: 2, Valid Percent: 25.00%, Whitelist: 0, IPv4: 6, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 浙江频道, Name: 浙江教育, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 3, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江教育, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江民生, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江新闻, Total: 15, Valid: 7, Valid Percent: 46.67%, Whitelist: 0, IPv4: 8, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 浙江频道, Name: 浙江少儿, Total: 14, Valid: 6, Valid Percent: 42.86%, Whitelist: 0, IPv4: 8, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江少儿, Total: 14, Valid: 4, Valid Percent: 28.57%, Whitelist: 0, IPv4: 10, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 杭州综合, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 杭州西湖明珠, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 杭州生活, Total: 5, Valid: 3, Valid Percent: 60.00%, Whitelist: 0, IPv4: 2, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -74,9 +74,9 @@ Category: 浙江频道, Name: NBTV-2, Total: 2, Valid: 0, Valid Percent: 0.00%, 
 Category: 浙江频道, Name: NBTV-3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: NBTV-4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江教科, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 浙江频道, Name: 浙江经济, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 浙江频道, Name: 之江纪录, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 浙江频道, Name: 浙江国际, Total: 18, Valid: 8, Valid Percent: 44.44%, Whitelist: 0, IPv4: 10, IPv6: 8, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江经济, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 之江纪录, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 3, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江国际, Total: 18, Valid: 7, Valid Percent: 38.89%, Whitelist: 0, IPv4: 11, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 嘉兴新闻综合, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 嘉兴公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 嘉兴文化影视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -86,8 +86,8 @@ Category: 浙江频道, Name: 湖州文化娱乐, Total: 3, Valid: 0, Valid Perc
 Category: 浙江频道, Name: 舟山新闻综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 舟山公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江经视, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 浙江频道, Name: 浙江留学, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 浙江频道, Name: 浙江民生休闲, Total: 11, Valid: 7, Valid Percent: 63.64%, Whitelist: 0, IPv4: 4, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 浙江频道, Name: 浙江留学, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 浙江频道, Name: 浙江民生休闲, Total: 11, Valid: 6, Valid Percent: 54.55%, Whitelist: 0, IPv4: 5, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 浙江数码时代, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江教科影院, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 浙江频道, Name: 浙江教科影视, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -156,7 +156,7 @@ Category: 浙江频道, Name: 上虞新商都, Total: 9, Valid: 6, Valid Percent
 Category: 浙江频道, Name: 上虞文化影院, Total: 7, Valid: 4, Valid Percent: 57.14%, Whitelist: 0, IPv4: 3, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 浙江频道, Name: 上虞文化影视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 北京频道, Name: 北京卡酷少儿, Total: 21, Valid: 9, Valid Percent: 42.86%, Whitelist: 0, IPv4: 12, IPv6: 9, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 北京频道, Name: 北京新闻, Total: 7, Valid: 3, Valid Percent: 42.86%, Whitelist: 0, IPv4: 4, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 北京频道, Name: 北京新闻, Total: 7, Valid: 4, Valid Percent: 57.14%, Whitelist: 0, IPv4: 3, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 北京频道, Name: 北京生活, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 北京频道, Name: 北京科教, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 北京频道, Name: 北京财经, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -287,7 +287,6 @@ Category: 湖北频道, Name: 武汉文体, Total: 1, Valid: 0, Valid Percent: 0
 Category: 湖北频道, Name: 武汉外语, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 湖北频道, Name: 江夏新闻综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 湖北频道, Name: 十堰新闻, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 湖北频道, Name: 荆门新闻综合, Total: 8, Valid: 6, Valid Percent: 75.00%, Whitelist: 0, IPv4: 2, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 湖北频道, Name: 武汉新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 湖北频道, Name: 潜江综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 广西频道, Name: 北海新闻综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -515,6 +514,8 @@ Category: 山东频道, Name: 烟台公共, Total: 2, Valid: 0, Valid Percent: 0
 Category: 山东频道, Name: 烟台新闻综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 山东频道, Name: 烟台经济科技, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 山西频道, Name: 万荣综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 山西频道, Name: 五台综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 山西频道, Name: 古县综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 山西频道, Name: 吉县新闻综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 山西频道, Name: 大宁综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 山西频道, Name: 太谷新闻综合, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
