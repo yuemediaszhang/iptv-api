@@ -91,6 +91,7 @@
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 深圳卫视,http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+深圳卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
@@ -501,6 +502,7 @@
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.ctv
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-7.ctv
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰纪实,https://hls-gateway.vpstv.net/streams/708834.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-35.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-22.ctv
@@ -583,6 +585,7 @@
 天津频道,#genre#
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+天津卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
 天津卫视,http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
 
 四川频道,#genre#
@@ -599,6 +602,8 @@
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-1.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-3.m3u8
@@ -856,6 +861,7 @@
 
 新疆频道,#genre#
 新疆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+新疆卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
 
 山东频道,#genre#
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-7.m3u8
