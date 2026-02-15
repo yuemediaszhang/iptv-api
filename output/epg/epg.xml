@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260215104411 +0800">
+<tv date="20260215224217 +0800">
 	<channel id="上海新闻综合">
 		<display-name lang="zh">上海新闻综合</display-name>
 	</channel>
@@ -14235,103 +14235,124 @@
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
-	<programme channel="哈哈炫动" start="20260215000000 +0800" stop="20260215060000 +0800">
-		<title lang="zh">祝您晚安</title>
+	<programme channel="哈哈炫动" start="20260216001500 +0800" stop="20260216024200 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215060000 +0800" stop="20260215060700 +0800">
-		<title lang="zh">星星班长(17)</title>
+	<programme channel="哈哈炫动" start="20260216024200 +0800" stop="20260216060000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215060700 +0800" stop="20260215061500 +0800">
-		<title lang="zh">星星班长(18)</title>
+	<programme channel="哈哈炫动" start="20260216060000 +0800" stop="20260216071500 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215061500 +0800" stop="20260215062200 +0800">
-		<title lang="zh">星星班长(19)</title>
+	<programme channel="哈哈炫动" start="20260216071500 +0800" stop="20260216073000 +0800">
+		<title lang="zh">炫动酷地带</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215062200 +0800" stop="20260215063000 +0800">
-		<title lang="zh">星星班长(20)</title>
+	<programme channel="哈哈炫动" start="20260216073000 +0800" stop="20260216080000 +0800">
+		<title lang="zh">欢乐蹦蹦跳</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215063000 +0800" stop="20260215063700 +0800">
-		<title lang="zh">星星班长(21)</title>
+	<programme channel="哈哈炫动" start="20260216080000 +0800" stop="20260216120000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215063700 +0800" stop="20260215064500 +0800">
-		<title lang="zh">星星班长(22)</title>
+	<programme channel="哈哈炫动" start="20260216120000 +0800" stop="20260216121500 +0800">
+		<title lang="zh">炫动酷地带</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215064500 +0800" stop="20260215065200 +0800">
-		<title lang="zh">星星班长(23)</title>
+	<programme channel="哈哈炫动" start="20260216121500 +0800" stop="20260216123000 +0800">
+		<title lang="zh">新闻同学</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215065200 +0800" stop="20260215070000 +0800">
-		<title lang="zh">星星班长(24)</title>
+	<programme channel="哈哈炫动" start="20260216123000 +0800" stop="20260216133000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215070000 +0800" stop="20260215073000 +0800">
-		<title lang="zh">新闻同学(1255)</title>
+	<programme channel="哈哈炫动" start="20260216133000 +0800" stop="20260216163000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215073000 +0800" stop="20260215140000 +0800">
-		<title lang="zh">欢乐蹦蹦跳(1155)</title>
+	<programme channel="哈哈炫动" start="20260216163000 +0800" stop="20260216170000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215140000 +0800" stop="20260215141500 +0800">
-		<title lang="zh">新大头儿子和小头爸爸3(195)</title>
+	<programme channel="哈哈炫动" start="20260216170000 +0800" stop="20260216180000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215141500 +0800" stop="20260215143000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸3(196)</title>
+	<programme channel="哈哈炫动" start="20260216180000 +0800" stop="20260216190000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215143000 +0800" stop="20260215144500 +0800">
-		<title lang="zh">新大头儿子和小头爸爸3(197)</title>
+	<programme channel="哈哈炫动" start="20260216190000 +0800" stop="20260216191500 +0800">
+		<title lang="zh">新闻同学</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215144500 +0800" stop="20260215150000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸3(198)</title>
+	<programme channel="哈哈炫动" start="20260216191500 +0800" stop="20260216193000 +0800">
+		<title lang="zh">荧星梦工厂</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215150000 +0800" stop="20260215153000 +0800">
-		<title lang="zh">甜心格格4(24)</title>
+	<programme channel="哈哈炫动" start="20260216193000 +0800" stop="20260216203000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215153000 +0800" stop="20260215160000 +0800">
-		<title lang="zh">甜心格格4(25)</title>
+	<programme channel="哈哈炫动" start="20260216203000 +0800" stop="20260216220000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215160000 +0800" stop="20260215163000 +0800">
-		<title lang="zh">甜心格格4(26)</title>
+	<programme channel="哈哈炫动" start="20260216220000 +0800" stop="20260216230000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215163000 +0800" stop="20260215200000 +0800">
-		<title lang="zh">奇奇和努娜(52)</title>
+	<programme channel="哈哈炫动" start="20260216230000 +0800" stop="20260216231500 +0800">
+		<title lang="zh">新闻同学</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215200000 +0800" stop="20260215201500 +0800">
-		<title lang="zh">超级飞侠15(9)</title>
+	<programme channel="哈哈炫动" start="20260216231500 +0800" stop="20260216001500 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215201500 +0800" stop="20260215203000 +0800">
-		<title lang="zh">超级飞侠15(10)</title>
+	<programme channel="哈哈炫动" start="20260217001500 +0800" stop="20260217024200 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215203000 +0800" stop="20260215204800 +0800">
-		<title lang="zh">喜羊羊与灰太狼之发明大作战(1)</title>
+	<programme channel="哈哈炫动" start="20260217024200 +0800" stop="20260217060000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215204800 +0800" stop="20260215210600 +0800">
-		<title lang="zh">喜羊羊与灰太狼之发明大作战(2)</title>
+	<programme channel="哈哈炫动" start="20260217060000 +0800" stop="20260217071500 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215210600 +0800" stop="20260215212400 +0800">
-		<title lang="zh">喜羊羊与灰太狼之发明大作战(3)</title>
+	<programme channel="哈哈炫动" start="20260217071500 +0800" stop="20260217073000 +0800">
+		<title lang="zh">炫动酷地带</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215212400 +0800" stop="20260215214200 +0800">
-		<title lang="zh">喜羊羊与灰太狼之发明大作战(4)</title>
+	<programme channel="哈哈炫动" start="20260217073000 +0800" stop="20260217080000 +0800">
+		<title lang="zh">欢乐蹦蹦跳</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215214200 +0800" stop="20260215220000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之发明大作战(5)</title>
+	<programme channel="哈哈炫动" start="20260217080000 +0800" stop="20260217120000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215220000 +0800" stop="20260215221500 +0800">
-		<title lang="zh">哈哈地球人4(1)</title>
+	<programme channel="哈哈炫动" start="20260217120000 +0800" stop="20260217121500 +0800">
+		<title lang="zh">炫动酷地带</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215221500 +0800" stop="20260215223000 +0800">
-		<title lang="zh">哈哈地球人4(2)</title>
+	<programme channel="哈哈炫动" start="20260217121500 +0800" stop="20260217123000 +0800">
+		<title lang="zh">新闻同学</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215223000 +0800" stop="20260215224500 +0800">
-		<title lang="zh">哈哈地球人4(3)</title>
+	<programme channel="哈哈炫动" start="20260217123000 +0800" stop="20260217133000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215224500 +0800" stop="20260215230000 +0800">
-		<title lang="zh">哈哈地球人4(4)</title>
+	<programme channel="哈哈炫动" start="20260217133000 +0800" stop="20260217163000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215230000 +0800" stop="20260215231500 +0800">
-		<title lang="zh">哈哈地球人4(5)</title>
+	<programme channel="哈哈炫动" start="20260217163000 +0800" stop="20260217170000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215231500 +0800" stop="20260215233000 +0800">
-		<title lang="zh">哈哈地球人4(6)</title>
+	<programme channel="哈哈炫动" start="20260217170000 +0800" stop="20260217180000 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
-	<programme channel="哈哈炫动" start="20260215233000 +0800" stop="20260215001500 +0800">
-		<title lang="zh">哈哈地球人4(7)</title>
+	<programme channel="哈哈炫动" start="20260217180000 +0800" stop="20260217190000 +0800">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217190000 +0800" stop="20260217191500 +0800">
+		<title lang="zh">新闻同学</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217191500 +0800" stop="20260217193000 +0800">
+		<title lang="zh">荧星梦工厂</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217193000 +0800" stop="20260217203000 +0800">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217203000 +0800" stop="20260217220000 +0800">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217220000 +0800" stop="20260217230000 +0800">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217230000 +0800" stop="20260217231500 +0800">
+		<title lang="zh">新闻同学</title>
+	</programme>
+	<programme channel="哈哈炫动" start="20260217231500 +0800" stop="20260217001500 +0800">
+		<title lang="zh">动画片剧场</title>
 	</programme>
 </tv>
