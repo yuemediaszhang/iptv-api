@@ -250,6 +250,8 @@ https://stream1.freetv.fun/shao-xing-gong-gong-8.m3u8
 #EXTINF:-1 tvg-name="绍兴公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴公共.png" group-title="浙江频道",绍兴公共
 https://stream1.freetv.fun/shao-xing-gong-gong-1.m3u8
 #EXTINF:-1 tvg-name="永嘉新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永嘉新闻综合.png" group-title="浙江频道",永嘉新闻综合
+https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
+#EXTINF:-1 tvg-name="永嘉新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永嘉新闻综合.png" group-title="浙江频道",永嘉新闻综合
 https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-4.m3u8
 #EXTINF:-1 tvg-name="永嘉新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永嘉新闻综合.png" group-title="浙江频道",永嘉新闻综合
 https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
@@ -494,9 +496,9 @@ http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 #EXTINF:-1 tvg-name="大丰公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大丰公共.png" group-title="江苏频道",大丰公共
 http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-name="无锡新闻综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合频道.png" group-title="江苏频道",无锡新闻综合频道
-http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
-#EXTINF:-1 tvg-name="无锡新闻综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合频道.png" group-title="江苏频道",无锡新闻综合频道
 http://stream.thmz.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="无锡新闻综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合频道.png" group-title="江苏频道",无锡新闻综合频道
+http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
 #EXTINF:-1 tvg-name="无锡都市资讯频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡都市资讯频道.png" group-title="江苏频道",无锡都市资讯频道
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
 #EXTINF:-1 tvg-name="无锡都市资讯频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡都市资讯频道.png" group-title="江苏频道",无锡都市资讯频道
@@ -520,13 +522,13 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 #EXTINF:-1 tvg-name="无锡经济频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡经济频道.png" group-title="江苏频道",无锡经济频道
 http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
 #EXTINF:-1 tvg-name="无锡生活频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活频道.png" group-title="江苏频道",无锡生活频道
+http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+#EXTINF:-1 tvg-name="无锡生活频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活频道.png" group-title="江苏频道",无锡生活频道
 http://stream.thmz.com/wxtv4/sd/live.m3u8
 #EXTINF:-1 tvg-name="无锡生活频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活频道.png" group-title="江苏频道",无锡生活频道
 http://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡生活频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活频道.png" group-title="江苏频道",无锡生活频道
 http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=968c13b81704871272
-#EXTINF:-1 tvg-name="无锡生活频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活频道.png" group-title="江苏频道",无锡生活频道
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 #EXTINF:-1 tvg-name="淮安公共频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安公共频道.png" group-title="江苏频道",淮安公共频道
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="淮安公共频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安公共频道.png" group-title="江苏频道",淮安公共频道
