@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260514231036 +0800">
+<tv date="20260515120813 +0800">
 	<channel id="东方财经">
 		<display-name lang="zh">东方财经</display-name>
 	</channel>
@@ -863,6 +863,51 @@
 	</programme>
 	<programme channel="东方财经" start="20260517013000 +0800" stop="20260517014500 +0800">
 		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260517014500 +0800" stop="20260517060100 +0800">
+		<title lang="zh">祝您晚安</title>
+	</programme>
+	<programme channel="东方财经" start="20260517060100 +0800" stop="20260517070000 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260517070000 +0800" stop="20260517073000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260517073000 +0800" stop="20260517080000 +0800">
+		<title lang="zh">中国经营者</title>
+	</programme>
+	<programme channel="东方财经" start="20260517080000 +0800" stop="20260517083000 +0800">
+		<title lang="zh">对话引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260517083000 +0800" stop="20260517090000 +0800">
+		<title lang="zh">几何书房</title>
+	</programme>
+	<programme channel="东方财经" start="20260517090000 +0800" stop="20260517093000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260517093000 +0800" stop="20260517100000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260517100000 +0800" stop="20260517103000 +0800">
+		<title lang="zh">浦东新脸谱</title>
+	</programme>
+	<programme channel="东方财经" start="20260517103000 +0800" stop="20260517110000 +0800">
+		<title lang="zh">中国经济论坛</title>
+	</programme>
+	<programme channel="东方财经" start="20260517110000 +0800" stop="20260517111500 +0800">
+		<title lang="zh">望江驿·遇见</title>
+	</programme>
+	<programme channel="东方财经" start="20260517111500 +0800" stop="20260517113000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260517113000 +0800" stop="20260517120000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260517120000 +0800" stop="20260517130000 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260517130000 +0800" stop="20260517150000 +0800">
+		<title lang="zh">纪录片</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -3266,6 +3311,141 @@
 	</programme>
 	<programme channel="动漫秀场" start="20260516162900 +0800" stop="20260517000000 +0800">
 		<title lang="zh">毛毛镇3(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517000000 +0800" stop="20260517000700 +0800">
+		<title lang="zh">毛毛镇Ⅲ(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517000700 +0800" stop="20260517001300 +0800">
+		<title lang="zh">毛毛镇Ⅲ(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517001300 +0800" stop="20260517001900 +0800">
+		<title lang="zh">毛毛镇Ⅲ(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517001900 +0800" stop="20260517002600 +0800">
+		<title lang="zh">毛毛镇Ⅲ(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517002600 +0800" stop="20260517003200 +0800">
+		<title lang="zh">毛毛镇Ⅲ(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517003200 +0800" stop="20260517004500 +0800">
+		<title lang="zh">鸭丫俱乐部Ⅱ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517004500 +0800" stop="20260517005800 +0800">
+		<title lang="zh">鸭丫俱乐部Ⅱ(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517005800 +0800" stop="20260517010700 +0800">
+		<title lang="zh">编码学院(13)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517010700 +0800" stop="20260517011700 +0800">
+		<title lang="zh">编码学院(14)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517011700 +0800" stop="20260517012700 +0800">
+		<title lang="zh">编码学院(15)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517012700 +0800" stop="20260517013700 +0800">
+		<title lang="zh">编码学院(16)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517013700 +0800" stop="20260517014600 +0800">
+		<title lang="zh">编码学院(17)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517014600 +0800" stop="20260517015600 +0800">
+		<title lang="zh">编码学院(18)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517015600 +0800" stop="20260517021100 +0800">
+		<title lang="zh">猪猪侠之超星萌宠Ⅳ(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517021100 +0800" stop="20260517022600 +0800">
+		<title lang="zh">猪猪侠之超星萌宠Ⅳ(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517022600 +0800" stop="20260517024100 +0800">
+		<title lang="zh">猪猪侠之超星萌宠Ⅳ(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517024100 +0800" stop="20260517025600 +0800">
+		<title lang="zh">猪猪侠之超星萌宠Ⅳ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517025600 +0800" stop="20260517025900 +0800">
+		<title lang="zh">少儿动画精彩片段(32)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517025900 +0800" stop="20260517031400 +0800">
+		<title lang="zh">超变战陀-双甲战陀(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517031400 +0800" stop="20260517032900 +0800">
+		<title lang="zh">超变战陀-双甲战陀(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517032900 +0800" stop="20260517034400 +0800">
+		<title lang="zh">超变战陀-双甲战陀(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517034400 +0800" stop="20260517035900 +0800">
+		<title lang="zh">超变战陀-双甲战陀(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517035900 +0800" stop="20260517040300 +0800">
+		<title lang="zh">少儿动画精彩片段(25)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517040300 +0800" stop="20260517040900 +0800">
+		<title lang="zh">毛毛镇Ⅲ(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517040900 +0800" stop="20260517041500 +0800">
+		<title lang="zh">毛毛镇Ⅲ(4)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517041500 +0800" stop="20260517042200 +0800">
+		<title lang="zh">毛毛镇Ⅲ(5)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517042200 +0800" stop="20260517042800 +0800">
+		<title lang="zh">毛毛镇Ⅲ(6)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517042800 +0800" stop="20260517043400 +0800">
+		<title lang="zh">毛毛镇Ⅲ(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517043400 +0800" stop="20260517044700 +0800">
+		<title lang="zh">鸭丫俱乐部Ⅱ(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517044700 +0800" stop="20260517050000 +0800">
+		<title lang="zh">鸭丫俱乐部Ⅱ(3)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517050000 +0800" stop="20260517051000 +0800">
+		<title lang="zh">编码学院(7)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517051000 +0800" stop="20260517052000 +0800">
+		<title lang="zh">编码学院(8)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517052000 +0800" stop="20260517053000 +0800">
+		<title lang="zh">编码学院(9)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517053000 +0800" stop="20260517054000 +0800">
+		<title lang="zh">编码学院(10)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517054000 +0800" stop="20260517054900 +0800">
+		<title lang="zh">编码学院(11)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517054900 +0800" stop="20260517055900 +0800">
+		<title lang="zh">编码学院(12)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517055900 +0800" stop="20260517061400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(57)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517061400 +0800" stop="20260517062900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(58)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517062900 +0800" stop="20260517064400 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(59)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517064400 +0800" stop="20260517065900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之深海历险记(60)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517065900 +0800" stop="20260517071100 +0800">
+		<title lang="zh">寻灵大冒险(51)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517071100 +0800" stop="20260517072400 +0800">
+		<title lang="zh">寻灵大冒险(52)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517072400 +0800" stop="20260517073800 +0800">
+		<title lang="zh">超变战陀-双甲战陀(1)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517073800 +0800" stop="20260517075300 +0800">
+		<title lang="zh">超变战陀-双甲战陀(2)</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260517075300 +0800" stop="20260517075400 +0800">
+		<title lang="zh">荧屏直通车(1)</title>
 	</programme>
 	<channel id="北京卡酷少儿">
 		<display-name lang="zh">北京卡酷少儿</display-name>
@@ -6075,6 +6255,33 @@
 	<programme channel="天津卫视" start="20260517003000 +0800" stop="20260517035000 +0800">
 		<title lang="zh">中国人</title>
 	</programme>
+	<programme channel="天津卫视" start="20260517070000 +0800" stop="20260517070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517070100 +0800" stop="20260517073000 +0800">
+		<title lang="zh">津晨播报</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517073000 +0800" stop="20260517083700 +0800">
+		<title lang="zh">冰锋(29)</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517083700 +0800" stop="20260517094500 +0800">
+		<title lang="zh">冰锋(30)</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517094500 +0800" stop="20260517105200 +0800">
+		<title lang="zh">冰锋(31)</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517105200 +0800" stop="20260517120000 +0800">
+		<title lang="zh">冰锋(32)</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517120000 +0800" stop="20260517122500 +0800">
+		<title lang="zh">12点报道</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517122500 +0800" stop="20260517123000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="天津卫视" start="20260517123000 +0800" stop="20260517133600 +0800">
+		<title lang="zh">冰锋(33)</title>
+	</programme>
 	<channel id="安多卫视">
 		<display-name lang="zh">安多卫视</display-name>
 	</channel>
@@ -7157,6 +7364,39 @@
 	</programme>
 	<programme channel="广东卫视" start="20260517012600 +0800" stop="20260517015500 +0800">
 		<title lang="zh">全球零距离</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517015500 +0800" stop="20260517022900 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517022900 +0800" stop="20260517030400 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517030400 +0800" stop="20260517035400 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517035400 +0800" stop="20260517043000 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517043000 +0800" stop="20260517050500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517063000 +0800" stop="20260517065700 +0800">
+		<title lang="zh">广东新闻联播</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517065700 +0800" stop="20260517070000 +0800">
+		<title lang="zh">早间天气预报</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517070000 +0800" stop="20260517070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517070100 +0800" stop="20260517073400 +0800">
+		<title lang="zh">大美南粤</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517073400 +0800" stop="20260517081300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="广东卫视" start="20260517122000 +0800" stop="20260517125600 +0800">
+		<title lang="zh">纪录片</title>
 	</programme>
 	<channel id="康巴卫视">
 		<display-name lang="zh">康巴卫视</display-name>
@@ -8724,6 +8964,39 @@
 	<programme channel="延边卫视" start="20260517012000 +0800" stop="20260517043500 +0800">
 		<title lang="zh">电视剧场 &lt;梅花红桃&gt;</title>
 	</programme>
+	<programme channel="延边卫视" start="20260517043500 +0800" stop="20260517045000 +0800">
+		<title lang="zh">每周一歌</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517045000 +0800" stop="20260517055000 +0800">
+		<title lang="zh">早间译制剧 &lt;铸匠&gt;</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517055000 +0800" stop="20260517070000 +0800">
+		<title lang="zh">早间译制剧 &lt;铸匠&gt;</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517070000 +0800" stop="20260517073700 +0800">
+		<title lang="zh">神州</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517073700 +0800" stop="20260517085200 +0800">
+		<title lang="zh">阿里郎剧场</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517085200 +0800" stop="20260517100500 +0800">
+		<title lang="zh">电视剧场 &lt;虎胆巍城&gt;</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517100500 +0800" stop="20260517105000 +0800">
+		<title lang="zh">电视剧场 &lt;上海滩生死较量&gt;</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517105000 +0800" stop="20260517120000 +0800">
+		<title lang="zh">电视剧场 &lt;上海滩生死较量&gt;</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517120000 +0800" stop="20260517123500 +0800">
+		<title lang="zh">新闻联播 (朝)</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517123500 +0800" stop="20260517133000 +0800">
+		<title lang="zh">文化漫步</title>
+	</programme>
+	<programme channel="延边卫视" start="20260517133000 +0800" stop="20260517144000 +0800">
+		<title lang="zh">电视剧场 &lt;壮丁也是兵&gt;</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -9897,6 +10170,27 @@
 	<programme channel="梨园" start="20260517000500 +0800" stop="20260517022000 +0800">
 		<title lang="zh">评剧:情殇</title>
 	</programme>
+	<programme channel="梨园" start="20260517022000 +0800" stop="20260517032600 +0800">
+		<title lang="zh">梨园春</title>
+	</programme>
+	<programme channel="梨园" start="20260517032600 +0800" stop="20260517054000 +0800">
+		<title lang="zh">豫剧:梵王宫-吴素真</title>
+	</programme>
+	<programme channel="梨园" start="20260517054000 +0800" stop="20260517075400 +0800">
+		<title lang="zh">豫剧:风骨-孟祥礼</title>
+	</programme>
+	<programme channel="梨园" start="20260517075400 +0800" stop="20260517100800 +0800">
+		<title lang="zh">豫剧:梵王宫-吴素真</title>
+	</programme>
+	<programme channel="梨园" start="20260517100800 +0800" stop="20260517110800 +0800">
+		<title lang="zh">梨园春</title>
+	</programme>
+	<programme channel="梨园" start="20260517110800 +0800" stop="20260517132300 +0800">
+		<title lang="zh">评剧:情殇</title>
+	</programme>
+	<programme channel="梨园" start="20260517132300 +0800" stop="20260517153700 +0800">
+		<title lang="zh">豫剧:风骨-孟祥礼</title>
+	</programme>
 	<channel id="法治天地">
 		<display-name lang="zh">法治天地</display-name>
 	</channel>
@@ -10782,9 +11076,6 @@
 	<programme channel="法治天地" start="20260515012000 +0800" stop="20260515014500 +0800">
 		<title lang="zh">案件聚焦:假货现形记</title>
 	</programme>
-	<programme channel="法治天地" start="20260515012000 +0800" stop="20260515014500 +0800">
-		<title lang="zh">案件聚焦:假货现形记</title>
-	</programme>
 	<programme channel="法治天地" start="20260515014500 +0800" stop="20260515022000 +0800">
 		<title lang="zh">和大律师面对面(5004):许中祯</title>
 	</programme>
@@ -10872,6 +11163,9 @@
 	<programme channel="法治天地" start="20260515133000 +0800" stop="20260515135500 +0800">
 		<title lang="zh">法治新闻</title>
 	</programme>
+	<programme channel="法治天地" start="20260515133000 +0800" stop="20260515135500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
 	<programme channel="法治天地" start="20260515135500 +0800" stop="20260515150500 +0800">
 		<title lang="zh">庭前庭后(3):奔波</title>
 	</programme>
@@ -10946,9 +11240,6 @@
 	</programme>
 	<programme channel="法治天地" start="20260516005500 +0800" stop="20260516012000 +0800">
 		<title lang="zh">庭前庭后(4):融合</title>
-	</programme>
-	<programme channel="法治天地" start="20260516012000 +0800" stop="20260516014500 +0800">
-		<title lang="zh">案件聚焦:妈妈,不要抛弃我</title>
 	</programme>
 	<programme channel="法治天地" start="20260516012000 +0800" stop="20260516014500 +0800">
 		<title lang="zh">案件聚焦:妈妈,不要抛弃我</title>
@@ -11040,6 +11331,9 @@
 	<programme channel="法治天地" start="20260516133000 +0800" stop="20260516135500 +0800">
 		<title lang="zh">法治新闻</title>
 	</programme>
+	<programme channel="法治天地" start="20260516133000 +0800" stop="20260516135500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
 	<programme channel="法治天地" start="20260516135500 +0800" stop="20260516150500 +0800">
 		<title lang="zh">庭前庭后(4):融合</title>
 	</programme>
@@ -11120,6 +11414,90 @@
 	</programme>
 	<programme channel="法治天地" start="20260517012000 +0800" stop="20260517014500 +0800">
 		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260517014500 +0800" stop="20260517022000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517022000 +0800" stop="20260517024000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517024000 +0800" stop="20260517030500 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517030500 +0800" stop="20260517033000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260517033000 +0800" stop="20260517035500 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517035500 +0800" stop="20260517042000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517042000 +0800" stop="20260517045000 +0800">
+		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260517045000 +0800" stop="20260517051000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517051000 +0800" stop="20260517053000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517053000 +0800" stop="20260517060500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517060500 +0800" stop="20260517063000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517063000 +0800" stop="20260517070000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517070000 +0800" stop="20260517072500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260517072500 +0800" stop="20260517073500 +0800">
+		<title lang="zh">庭前庭后Ⅳ(4)</title>
+	</programme>
+	<programme channel="法治天地" start="20260517073500 +0800" stop="20260517080500 +0800">
+		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260517080500 +0800" stop="20260517083000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517083000 +0800" stop="20260517090500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517090500 +0800" stop="20260517093000 +0800">
+		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260517093000 +0800" stop="20260517100000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517100000 +0800" stop="20260517103000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517103000 +0800" stop="20260517110000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517110000 +0800" stop="20260517112000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517112000 +0800" stop="20260517114000 +0800">
+		<title lang="zh">律师界(12):口腔科的烦恼</title>
+	</programme>
+	<programme channel="法治天地" start="20260517114000 +0800" stop="20260517120000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260517120000 +0800" stop="20260517123000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260517123000 +0800" stop="20260517130000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(2):斡旋</title>
+	</programme>
+	<programme channel="法治天地" start="20260517130000 +0800" stop="20260517133000 +0800">
+		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260517133000 +0800" stop="20260517135500 +0800">
+		<title lang="zh">法治新闻</title>
 	</programme>
 	<channel id="深圳卫视">
 		<display-name lang="zh">深圳卫视</display-name>
@@ -12104,6 +12482,66 @@
 	</programme>
 	<programme channel="深圳卫视" start="20260517010300 +0800" stop="20260517013300 +0800">
 		<title lang="zh">探秘时刻</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517013300 +0800" stop="20260517015300 +0800">
+		<title lang="zh">超级发布会</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517015300 +0800" stop="20260517021000 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517021000 +0800" stop="20260517025400 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517025400 +0800" stop="20260517034100 +0800">
+		<title lang="zh">游击英雄</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517034100 +0800" stop="20260517042800 +0800">
+		<title lang="zh">游击英雄</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517042800 +0800" stop="20260517051500 +0800">
+		<title lang="zh">游击英雄</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517051500 +0800" stop="20260517053000 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517053000 +0800" stop="20260517054300 +0800">
+		<title lang="zh">直财经</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517054300 +0800" stop="20260517063500 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517063500 +0800" stop="20260517065500 +0800">
+		<title lang="zh">深圳非遗</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517065500 +0800" stop="20260517070000 +0800">
+		<title lang="zh">《温暖在身边》短视频</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517070000 +0800" stop="20260517070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517070100 +0800" stop="20260517080000 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517080000 +0800" stop="20260517095600 +0800">
+		<title lang="zh">奇奇和努娜之美丽新世界</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517095600 +0800" stop="20260517105300 +0800">
+		<title lang="zh">尖刀出鞘(15)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517105300 +0800" stop="20260517115000 +0800">
+		<title lang="zh">尖刀出鞘(16)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517115000 +0800" stop="20260517123000 +0800">
+		<title lang="zh">正午看天下</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517123000 +0800" stop="20260517124500 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517124500 +0800" stop="20260517130000 +0800">
+		<title lang="zh">直财经</title>
+	</programme>
+	<programme channel="深圳卫视" start="20260517130000 +0800" stop="20260517135700 +0800">
+		<title lang="zh">旗袍旗袍(20)</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
