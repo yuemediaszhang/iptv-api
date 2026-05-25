@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260524231020 +0800">
+<tv date="20260525134230 +0800">
 	<channel id="东方财经">
 		<display-name lang="zh">东方财经</display-name>
 	</channel>
@@ -10095,8 +10095,29 @@
 	<programme channel="梨园" start="20260526212600 +0800" stop="20260526234000 +0800">
 		<title lang="zh">豫剧:血溅乌纱-袁国营</title>
 	</programme>
-	<programme channel="梨园" start="20260526234000 +0800" stop="20260527000000 +0800">
+	<programme channel="梨园" start="20260526234000 +0800" stop="20260527000100 +0800">
 		<title lang="zh">唱段欣赏</title>
+	</programme>
+	<programme channel="梨园" start="20260527000100 +0800" stop="20260527021600 +0800">
+		<title lang="zh">京剧:挂云山</title>
+	</programme>
+	<programme channel="梨园" start="20260527021600 +0800" stop="20260527043000 +0800">
+		<title lang="zh">曲剧:李祥和的婚事-胡希华</title>
+	</programme>
+	<programme channel="梨园" start="20260527043000 +0800" stop="20260527064400 +0800">
+		<title lang="zh">豫剧:血溅乌纱-袁国营</title>
+	</programme>
+	<programme channel="梨园" start="20260527064400 +0800" stop="20260527085800 +0800">
+		<title lang="zh">曲剧:李祥和的婚事-胡希华</title>
+	</programme>
+	<programme channel="梨园" start="20260527085800 +0800" stop="20260527111300 +0800">
+		<title lang="zh">京剧:挂云山</title>
+	</programme>
+	<programme channel="梨园" start="20260527111300 +0800" stop="20260527125300 +0800">
+		<title lang="zh">梨园春</title>
+	</programme>
+	<programme channel="梨园" start="20260527125300 +0800" stop="20260527153700 +0800">
+		<title lang="zh">豫剧:血溅乌纱-袁国营</title>
 	</programme>
 	<channel id="法治天地">
 		<display-name lang="zh">法治天地</display-name>
