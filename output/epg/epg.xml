@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260703231829 +0800">
+<tv date="20260704114614 +0800">
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
 	</channel>
@@ -2873,6 +2873,75 @@
 	</programme>
 	<programme channel="东方财经" start="20260706013000 +0800" stop="20260706014500 +0800">
 		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260706014500 +0800" stop="20260706015100 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706015100 +0800" stop="20260706015800 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706015800 +0800" stop="20260706060100 +0800">
+		<title lang="zh">祝您晚安</title>
+	</programme>
+	<programme channel="东方财经" start="20260706060100 +0800" stop="20260706065600 +0800">
+		<title lang="zh">今日股市</title>
+	</programme>
+	<programme channel="东方财经" start="20260706065600 +0800" stop="20260706070000 +0800">
+		<title lang="zh">科创之光文明同行</title>
+	</programme>
+	<programme channel="东方财经" start="20260706070000 +0800" stop="20260706072500 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260706072500 +0800" stop="20260706075600 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260706075600 +0800" stop="20260706080000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706080000 +0800" stop="20260706081500 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260706081500 +0800" stop="20260706083000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260706083000 +0800" stop="20260706090000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260706090000 +0800" stop="20260706092700 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260706092700 +0800" stop="20260706114500 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260706114500 +0800" stop="20260706120000 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260706120000 +0800" stop="20260706120400 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706120400 +0800" stop="20260706121000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706121000 +0800" stop="20260706121600 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706121600 +0800" stop="20260706122200 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706122200 +0800" stop="20260706123000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706123000 +0800" stop="20260706124500 +0800">
+		<title lang="zh">632观察</title>
+	</programme>
+	<programme channel="东方财经" start="20260706124500 +0800" stop="20260706125400 +0800">
+		<title lang="zh">科创先行者</title>
+	</programme>
+	<programme channel="东方财经" start="20260706125400 +0800" stop="20260706130000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260706130000 +0800" stop="20260706150000 +0800">
+		<title lang="zh">市场零距离</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -8240,6 +8309,93 @@
 	</programme>
 	<programme channel="法治天地" start="20260706012000 +0800" stop="20260706014500 +0800">
 		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706014500 +0800" stop="20260706022000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706022000 +0800" stop="20260706024000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706024000 +0800" stop="20260706030500 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706030500 +0800" stop="20260706033000 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706033000 +0800" stop="20260706035000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706035000 +0800" stop="20260706042000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706042000 +0800" stop="20260706045000 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706045000 +0800" stop="20260706051000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706051000 +0800" stop="20260706053000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706053000 +0800" stop="20260706060500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706060500 +0800" stop="20260706063000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706063000 +0800" stop="20260706070000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706070000 +0800" stop="20260706072500 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706072500 +0800" stop="20260706073500 +0800">
+		<title lang="zh">庭前庭后Ⅳ(5)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706073500 +0800" stop="20260706080500 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706080500 +0800" stop="20260706083000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706083000 +0800" stop="20260706090500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706090500 +0800" stop="20260706093500 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706093500 +0800" stop="20260706100000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706100000 +0800" stop="20260706102000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706102000 +0800" stop="20260706103000 +0800">
+		<title lang="zh">庭前庭后Ⅳ(5)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706103000 +0800" stop="20260706110000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706110000 +0800" stop="20260706112000 +0800">
+		<title lang="zh">安澜长江(1)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706112000 +0800" stop="20260706114000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706114000 +0800" stop="20260706120000 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706120000 +0800" stop="20260706123500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706123500 +0800" stop="20260706130000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706130000 +0800" stop="20260706133000 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706133000 +0800" stop="20260706135500 +0800">
+		<title lang="zh">安澜长江</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
