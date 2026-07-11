@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260710231130 +0800">
+<tv date="20260711111846 +0800">
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
 	</channel>
@@ -2840,6 +2840,45 @@
 	</programme>
 	<programme channel="东方财经" start="20260713013000 +0800" stop="20260713014500 +0800">
 		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260713014500 +0800" stop="20260713060100 +0800">
+		<title lang="zh">祝您晚安</title>
+	</programme>
+	<programme channel="东方财经" start="20260713060100 +0800" stop="20260713065600 +0800">
+		<title lang="zh">今日股市</title>
+	</programme>
+	<programme channel="东方财经" start="20260713065600 +0800" stop="20260713070000 +0800">
+		<title lang="zh">科创之光文明同行</title>
+	</programme>
+	<programme channel="东方财经" start="20260713070000 +0800" stop="20260713080000 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260713080000 +0800" stop="20260713083000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260713083000 +0800" stop="20260713090000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260713090000 +0800" stop="20260713092700 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260713092700 +0800" stop="20260713114500 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260713114500 +0800" stop="20260713120000 +0800">
+		<title lang="zh">市场零距离</title>
+	</programme>
+	<programme channel="东方财经" start="20260713120000 +0800" stop="20260713123000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260713123000 +0800" stop="20260713124500 +0800">
+		<title lang="zh">632观察</title>
+	</programme>
+	<programme channel="东方财经" start="20260713124500 +0800" stop="20260713130000 +0800">
+		<title lang="zh">科创先行者</title>
+	</programme>
+	<programme channel="东方财经" start="20260713130000 +0800" stop="20260713150000 +0800">
+		<title lang="zh">市场零距离</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -8225,6 +8264,93 @@
 	</programme>
 	<programme channel="法治天地" start="20260713012000 +0800" stop="20260713014500 +0800">
 		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713014500 +0800" stop="20260713022000 +0800">
+		<title lang="zh">和大律师面对面(5052):郑建</title>
+	</programme>
+	<programme channel="法治天地" start="20260713022000 +0800" stop="20260713024000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713024000 +0800" stop="20260713030500 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713030500 +0800" stop="20260713033000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260713033000 +0800" stop="20260713035000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713035000 +0800" stop="20260713042000 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713042000 +0800" stop="20260713045000 +0800">
+		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713045000 +0800" stop="20260713051000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713051000 +0800" stop="20260713053000 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713053000 +0800" stop="20260713060500 +0800">
+		<title lang="zh">和大律师面对面(3327):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20260713060500 +0800" stop="20260713063000 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713063000 +0800" stop="20260713070000 +0800">
+		<title lang="zh">和大律师面对面(5052):郑建</title>
+	</programme>
+	<programme channel="法治天地" start="20260713070000 +0800" stop="20260713072500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260713072500 +0800" stop="20260713073600 +0800">
+		<title lang="zh">庭前庭后Ⅳ(12)</title>
+	</programme>
+	<programme channel="法治天地" start="20260713073600 +0800" stop="20260713080500 +0800">
+		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713080500 +0800" stop="20260713083000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713083000 +0800" stop="20260713090500 +0800">
+		<title lang="zh">和大律师面对面(3327):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20260713090500 +0800" stop="20260713093500 +0800">
+		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713093500 +0800" stop="20260713100000 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713100000 +0800" stop="20260713102000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713102000 +0800" stop="20260713103000 +0800">
+		<title lang="zh">庭前庭后Ⅳ(12)</title>
+	</programme>
+	<programme channel="法治天地" start="20260713103000 +0800" stop="20260713110000 +0800">
+		<title lang="zh">和大律师面对面(5052):郑建</title>
+	</programme>
+	<programme channel="法治天地" start="20260713110000 +0800" stop="20260713112000 +0800">
+		<title lang="zh">安澜长江(1)</title>
+	</programme>
+	<programme channel="法治天地" start="20260713112000 +0800" stop="20260713114000 +0800">
+		<title lang="zh">律师界:治安管理处罚法大修落定</title>
+	</programme>
+	<programme channel="法治天地" start="20260713114000 +0800" stop="20260713120000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260713120000 +0800" stop="20260713123500 +0800">
+		<title lang="zh">和大律师面对面(3327):孙鸣民</title>
+	</programme>
+	<programme channel="法治天地" start="20260713123500 +0800" stop="20260713130000 +0800">
+		<title lang="zh">庭前庭后(2):护航创新之路</title>
+	</programme>
+	<programme channel="法治天地" start="20260713130000 +0800" stop="20260713133000 +0800">
+		<title lang="zh">案件聚焦:假货现形记</title>
+	</programme>
+	<programme channel="法治天地" start="20260713133000 +0800" stop="20260713135500 +0800">
+		<title lang="zh">法治新闻</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
