@@ -310,10 +310,10 @@
 宜兴紫砂频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8
 贾汪旅游频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8
-睢宁综合频道,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
-睢宁综合频道,http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
 睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
+睢宁综合频道,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
+睢宁综合频道,http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
 睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8
 睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
@@ -371,8 +371,8 @@
 泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
 泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
-武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8
 武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
@@ -389,15 +389,24 @@
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡都市,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 无锡都市,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=968c13b81704871272
+无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
 无锡移动,http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴新闻综合,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260702160216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260702160216&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=37f376fa7e401fb0e6ac391bff23d34d&sv=10004&ct=android
@@ -423,14 +432,14 @@
 无锡经济频道,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济频道,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济频道,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
+无锡生活频道,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡生活频道,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡生活频道,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活频道,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=968c13b81704871272
-无锡生活频道,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 泗洪新闻综合频道,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 泗洪新闻综合频道,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
-淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8
+淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 涟水电视综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 扬州1套,http://cm-wshls.homecdn.com/live/8bb.m3u8?wsSession=79513967f36b97291b6ac172-171280250661852&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
 扬州2套,http://cm-wshls.homecdn.com/live/8bd.m3u8?wsSession=71483682f8c082ffbcb3f35c-171280252396805&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
@@ -878,6 +887,11 @@
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
+滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
+滁州市广播电视台 公共,http://live.cztv.cc:85/live/ggpd.m3u8
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
